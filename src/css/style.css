@@ -1,0 +1,29 @@
+.pole-game {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 450px;
+  margin-bottom: 0;
+}
+
+.pole {
+  width: 100px;
+  height: 100px;
+  margin: 0 5px 10px;
+  background: blue;
+  border-radius: 30%;
+
+  border: 1px solid black;
+}
+
+.goblinPole {
+  background-image: url(../pic/goblin.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: blue;
+}
