@@ -1,4 +1,5 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/82454db1j3qcrpr7?svg=true)](https://ci.appveyor.com/project/Al101020/13-2-02-dom-dz-goblin)
+<br>https://al101020.github.io/13-2.02_DOM_DZ-Goblin/<br>
 
 # 13-2.02_DOM_DZ-Goblin
 ДЗ - DOM,  игра убей гоблина, первая часть
